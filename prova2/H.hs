@@ -1,4 +1,4 @@
--- =-=-= Base para as questões D ~ H =-=-=
+-- =-=-=-= Base para as questões D ~ H =-=-=-=
 type Texto = String
 type Id = String
 type DataHoraPub = Int 
